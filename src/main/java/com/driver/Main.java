@@ -1,4 +1,4 @@
-package com.driver.Main;
+package com.driver;
 
 public class Main {
     public static void main(String[] args){
@@ -9,7 +9,7 @@ public class Main {
         System.out.println(ans+" "+ans1+" "+ans2);
 
     }
-    public static class product{
+    public static class Product{
         public int product(int x , int y){
             return x*y;
         }
